@@ -103,5 +103,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - NLTK for providing the movie_reviews corpus
 - scikit-learn for the machine learning tools
 - The open-source community for continuous inspiration and support
-
-[Creating Great README Files for Your Python Projects](https://realpython.com/readme-python-project/) 
